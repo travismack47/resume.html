@@ -2,8 +2,6 @@
 <html>
   <head>
 
-  </head>
-
   <body>
     <h1>Travis Mack</h1>
     <p> Seeking employment with opportunity for professional growth.</p>
